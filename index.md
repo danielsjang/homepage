@@ -1,3 +1,12 @@
+I am a graduate student at MIT's ARClab advised by Professor Richard Linares.  My research focuses on the field of reinforcement learning and robotics. Specifically, I am interested in meta-learning for enabling a robot to adapt fast to unseen situations, hierarchical learning for solving the delayed credit assignments, and multi-agent reinforcement learning for learning to coordinate with other simultaneously learning robots.
+
+Previously, I received my B.S. in Electrical and Computer Engineering (summa cum laude) at Cornell. 
+Email  /  CV  /  Google Scholar  /  GitHub
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/danielsjang/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
